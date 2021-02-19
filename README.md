@@ -1,6 +1,6 @@
 # Hardhat Starter Pack
 
-Hardhat Starter Pack is a Hardhat deployment stack featuring:
+Hardhat Starter Pack is a Hardhat deployment stack for Harmony featuring:
 
 - `hardhat-deploy` for smart contract deployments
 - `solidity-coverage` for smart contract code coverage analysis
