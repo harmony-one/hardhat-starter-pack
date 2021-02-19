@@ -37,6 +37,20 @@ yarn coverage
 
 ### Deployment
 
+#### Hardhat
+
+Terminal window #1:
+
+```
+yarn hardhat node
+```
+
+Terminal window #2:
+
+```
+yarn void:deploy
+```
+
 #### Localnet
 
 Deploying to localnet requires that you have a Harmony node running at `http://localhost:9500`.
