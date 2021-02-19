@@ -51,7 +51,7 @@ Terminal window #2:
 yarn void:deploy
 ```
 
-#### Localnet
+#### Harmony Localnet
 
 Deploying to localnet requires that you have a Harmony node running at `http://localhost:9500`.
 
@@ -59,13 +59,13 @@ Deploying to localnet requires that you have a Harmony node running at `http://l
 yarn localnet:deploy
 ```
 
-#### Testnet
+#### Harmony Testnet
 
 ```
 yarn testnet:deploy
 ```
 
-#### Mainnet
+#### Harmony Mainnet
 
 ```
 yarn mainnet:deploy
