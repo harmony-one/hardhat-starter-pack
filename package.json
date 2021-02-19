@@ -1,10 +1,10 @@
 {
-  "name": "hardhat-deploy-ts-test",
+  "name": "hardhat-starter-pack",
   "private": true,
   "version": "0.1.0",
-  "description": "Test Repo for hardhat-deploy, showcasing what can be done",
-  "repository": "github:wighawag/hardhat-deploy-ts-test",
-  "author": "wighawag",
+  "description": "Hardhat starter pack for Harmony",
+  "repository": "github:harmony-one/hardhat-starter-pack",
+  "author": "harmony-one",
   "license": "MIT",
   "keywords": [
     "ethereum",
