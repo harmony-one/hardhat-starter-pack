@@ -57,7 +57,7 @@ yarn testnet:deploy
 yarn mainnet:deploy
 ```
 
-### Remove examples
+### Clean slate
 
 The starter pack includes a `TestToken.sol` contract that is used as an example for deployments and tests.
 
